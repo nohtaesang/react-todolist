@@ -1,0 +1,153 @@
+
+#root{
+  display:flex;
+  width:100%;
+  justify-content: center;
+  align-items: center;
+  box-sizing: border-box;
+  background: #212529;
+}
+
+#background{
+  box-sizing: border-box;
+  width:720px;
+  min-height:100vh;
+  
+
+}
+
+
+#topBanner{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color:212529;
+  font-weight:bold;
+  font-size:50px;
+
+  width:100%;
+  height:180px;
+  /* z-index: 10; */
+  box-sizing: border-box;
+  background: #ffd43b;
+  margin-top:16px;
+  margin-bottom:16px;
+
+}
+
+#section{
+  width:100%;
+  box-sizing: border-box;
+}
+
+
+#section > #category{
+  display: flex;
+  justify-content: space-between;
+  width:100%;
+  height:100%;
+  box-sizing: border-box;
+}
+
+
+#section > #category > .categoryAdd{
+  
+  display: flex;
+  flex-direction: column;
+  
+  width:352px;
+  color:white;
+}
+
+#section > #category > .categoryAdd > .title{
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  
+  height:50px;
+  background: #343a40;
+  margin-bottom:16px;
+}
+
+#section > #category > .categoryTodo{
+  display: flex;
+  flex-direction: column;
+  
+  width:352px;
+  color:white;
+  
+}
+
+#section > #category > .categoryTodo > .title{
+  display:flex;
+  justify-content: space-around;
+  align-items: center;
+  
+  height:50px;
+  margin-bottom:16px;
+  
+}
+
+#section > #category > .categoryTodo > .title > .listState{
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  width:100%;
+  height:100%;
+}
+#section > #category > .categoryTodo > .title > .listState.active{
+  border:solid 5px #ffd43b;
+}
+#section > #category > .categoryTodo > .title > .listState:hover{
+  border:solid 5px #ffd43b;
+}
+
+
+#section > #category > .categoryTodo > .title > .listState.todo{
+  box-sizing: border-box;
+  background: #ff8787;
+}#section > #category > .categoryTodo > .title > .listState.all{
+  box-sizing: border-box;
+  background: #74c0fc;
+}#section > #category > .categoryTodo > .title > .listState.done{
+  box-sizing: border-box;
+  background: #0ca678;
+}
+ 
+
+
+
+/* 
+
+#section > #category > .categoryDone{
+  display: flex;
+  flex-direction: column;
+  
+  width:228px;
+  color:white;
+
+}
+
+#section > #category > .categoryDone > .title{
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  
+  height:50px;
+  background: #69db7c;
+  margin-bottom:16px;
+}
+
+ */
+
+
+
+#tool{
+  position: fixed;
+  z-index: 8;
+}
+
+#tool #addCard{
+  /* display:none; */
+}
+
