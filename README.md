@@ -19,12 +19,16 @@
 
 ### todolist 설치 및 실행
 
-##### mkdir todolist
+##### mkdir www
 
-##### cd mkdir
+##### cd www
 
 ##### git clone https://github.com/nohtaesang/todolist.git
 
-##### npm start 
+##### cd todolist
+
+##### npm install
+
+##### npm start
 
 
