@@ -1,5 +1,5 @@
 
-
+프로젝트 확인하기> <http://ec2-54-89-58-158.compute-1.amazonaws.com:3000/>
 
 ### node.js 환경 구축>  
 
