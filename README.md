@@ -1,23 +1,23 @@
 
 
 
-# node.js 환경 구축>  
+### node.js 환경 구축>  
 
 
-### wget https://nodejs.org/dist/v8.12.0/node-v8.12.0.tar.gz
+##### wget https://nodejs.org/dist/v8.12.0/node-v8.12.0.tar.gz
 
-### tar -xvf node-v8.12.0.tar.gz
+##### tar -xvf node-v8.12.0.tar.gz
 
-### cd node-v8.12.0
+##### cd node-v8.12.0
 
-### ./configure
+##### ./configure
 
-### make
+##### make
 
-### sudo make install
+##### sudo make install
 
 
-# 실행
-### npm start 
+### 실행
+##### npm start 
 
 
