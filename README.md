@@ -17,7 +17,14 @@
 ##### sudo make install
 
 
-### 실행
+### todolist 설치 및 실행
+
+##### mkdir todolist
+
+##### cd mkdir
+
+##### git clone https://github.com/nohtaesang/todolist.git
+
 ##### npm start 
 
 
