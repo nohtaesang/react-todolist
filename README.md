@@ -10,30 +10,26 @@
 
 #### 2-1. Install node.js, npm
 
-##### wget https://nodejs.org/dist/v8.12.0/node-v8.12.0.tar.gz
+##### > wget https://nodejs.org/dist/v8.12.0/node-v8.12.0.tar.gz
 
-##### tar -xvf node-v8.12.0.tar.gz
+##### > tar -xvf node-v8.12.0.tar.gz
 
-##### cd node-v8.12.0
+##### > cd node-v8.12.0
 
-##### ./configure
+##### > ./configure
 
-##### make
+##### > make
 
-##### sudo make install
+##### > sudo make install
 
 #### 2-2. set my project
 
-##### mkdir www
+##### > git clone https://github.com/nohtaesang/todolist.git
 
-##### cd www
+##### > cd todolist
 
-##### git clone https://github.com/nohtaesang/todolist.git
+##### > npm install
 
-##### cd todolist
-
-##### npm install
-
-##### npm start
+##### > npm start
 
 
