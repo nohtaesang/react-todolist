@@ -1,8 +1,14 @@
+### To Do List ( 2018.11.04 )
+<hr>
 
-프로젝트 확인하기> <http://ec2-54-89-58-158.compute-1.amazonaws.com:3000/>
+### 1. 프로젝트 확인하기> 
 
-### node.js 환경 구축>  
+##### <http://ec2-54-89-58-158.compute-1.amazonaws.com:3000/>
+<hr>
 
+### 2. 실행 환경 구축하기>  
+
+#### 2-1. Install node.js, npm
 
 ##### wget https://nodejs.org/dist/v8.12.0/node-v8.12.0.tar.gz
 
@@ -16,8 +22,7 @@
 
 ##### sudo make install
 
-
-### todolist 설치 및 실행
+#### 2-2. set my project
 
 ##### mkdir www
 
