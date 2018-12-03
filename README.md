@@ -3,7 +3,8 @@
 
 ### 1. 프로젝트 확인하기> 
 
-##### <http://ec2-54-89-58-158.compute-1.amazonaws.com/>
+##### (현재 인스턴스 정지상태) <http://ec2-54-89-58-158.compute-1.amazonaws.com/> 
+
 <hr>
 
 ### 2. 실행 환경 구축하기>  
