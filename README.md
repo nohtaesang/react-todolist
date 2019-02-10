@@ -2,9 +2,9 @@
 할 일을 관리할 수 있는 웹 어플리케이션
  
 ## Motivation
-```
+<link>
 https://programmers.co.kr/competitions/86/2018%20Winter%20Coding%20%EA%B2%A8%EC%9A%B8%20%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85%20%EC%9D%B8%ED%84%B4%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8
-```
+</link><br>
 프로그래머스에서 진행한 '겨울 스타트업 인턴 프로그램'에 지원하기 위한 사전 과제를 제출하기 위해 만들었다.
 
 ## Tech/framework used
