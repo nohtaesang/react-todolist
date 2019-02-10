@@ -7,6 +7,11 @@ https://programmers.co.kr/competitions/86/2018%20Winter%20Coding%20%EA%B2%A8%EC%
 ```
 프로그래머스에서 진행한 '겨울 스타트업 인턴 프로그램'에 지원하기 위한 사전 과제를 제출하기 위해 만들었다.
 
+## Tech/framework used
+```
+react
+```
+
 ## Installation
 ```
 git clone https://github.com/nohtaesang/todolist.git
@@ -53,8 +58,3 @@ npm start
 <img width="756" alt="12" src="https://user-images.githubusercontent.com/31440203/52530644-c4db1500-2d4b-11e9-8896-e05e72b3b630.png">
 
 
-## Tech/framework used
-```
-react
-```
- 
